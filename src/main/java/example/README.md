@@ -17,4 +17,4 @@ Some limitations of this code:
  <b>$find /Users/iolalla/workspace/ -name "*.pst" -exec java -cp java-libpst-0.8.1.jar:javax.mail-1.5.2.jar:. example.PSTExtractor {} \;</b>
  
 Finally, in order to run this class here you have an example you can use, from target dir :
-$java -cp java-libpst-0.8.1.jar:javax.mail-1.5.2.jar:. example.PSTExtractor /Users/iolalla/workspace/java-libpst/YOUR.pst
+<b>$java -cp java-libpst-0.8.1.jar:javax.mail-1.5.2.jar:. example.PSTExtractor /Users/iolalla/workspace/java-libpst/YOUR.pst</a>
